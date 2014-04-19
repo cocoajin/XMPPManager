@@ -10,7 +10,7 @@ XMPPManager
 ### XMPPManager使用
 1. 在 AppDelegate.h 里面导入 `XMPPManager.h`,添加代理 `XMPPManagerDelegate`
 2. 在 AppDelegate.m 里面 连接服务器，并实现相应代理即可
-	```
+	```objective-c
 	    //初始化服务器连接管理
     XMPPManager  *manager = [XMPPManager managerWith:ip];
     manager.delegate = self;
