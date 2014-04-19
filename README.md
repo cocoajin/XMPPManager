@@ -3,6 +3,8 @@ XMPPManager
 
 基于XMPPFramework的 ios端聊天程序
 
+![loginImg](login.png)
+
 ### 配置环境
 `XMPPManager`是基于 XMPPFramework的，请先下载配置 ；[https://github.com/robbiehanson/XMPPFramework](https://github.com/robbiehanson/XMPPFramework)			
 `XMPPFramework`环境配置 [http://www.cnblogs.com/cocoajin/p/3668373.html](http://www.cnblogs.com/cocoajin/p/3668373.html)
@@ -28,7 +30,8 @@ XMPPManager
 	ip: 服务器IP地址，默认端口为 `5222`
 	userName:登录用户名；
 	pwd:密码
-3.实现相应的代理方法即可
+	
+3. 实现相应的代理方法即可
 
 ### XMPPManager 可用代理方法
 
