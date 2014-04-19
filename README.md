@@ -3,7 +3,7 @@ XMPPManager
 
 基于XMPPFramework的 ios端聊天程序
 
-![loginImg](login.png)
+![loginImg](login2.png)
 
 ### 配置环境
 `XMPPManager`是基于 XMPPFramework的，请先下载配置 ；[https://github.com/robbiehanson/XMPPFramework](https://github.com/robbiehanson/XMPPFramework)			
