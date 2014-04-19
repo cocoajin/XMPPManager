@@ -29,7 +29,7 @@ XMPPManager
 	userName:登录用户名；
 	pwd:密码
 3.实现相应的代理方法即可
-### XMPPManager 可以代理方法
+### XMPPManager 可用代理方法
 
 查看 `XMPPManagerDelegate.h`
 - 用户登录成功代理
