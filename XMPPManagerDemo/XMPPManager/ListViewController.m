@@ -61,6 +61,7 @@
 
 }
 
+//登录页面代理回调用户名和密码
 - (void)loginWith:(NSString *)userName pwd:(NSString *)pwd serverIP:(NSString *)ip
 {
     //初始化服务器连接管理
